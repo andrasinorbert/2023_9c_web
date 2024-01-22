@@ -1,0 +1,25 @@
+h1{
+    color: greenyellow;
+}
+
+p.own_p{
+    background-color: cyan;
+}
+
+p{
+    color: pink;
+    background-color: brown;
+}
+
+.piroshatter{
+    background-color: red;
+}
+
+.own_p{
+    color: blue;
+}
+
+#adat5p{
+    color: green;
+    background-color: violet;
+}
