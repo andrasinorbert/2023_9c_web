@@ -1,0 +1,15 @@
+/* univerzális szelektor */
+*{
+    color:green;
+}
+
+/* tipus szelektor */
+h1 {
+    color:red;
+}
+
+/* leszármazott szelektor */
+div p {
+    background-color: blue;
+}
+
