@@ -1,0 +1,22 @@
+/*
+img[width]{
+    border: 3px solid green;
+}
+img[height="50px"]{
+    border: 3px solid yellow;
+}
+img[alt~="cica"]{
+    border: 3px solid pink;
+}*/
+img[title|="van"]{ 
+    border: 3px solid red; /*nem mükszik??*/
+}
+img[title^="egy"]{
+    border: 3px solid brown;
+}
+img[src$=".jpg"]{
+    border: 3px solid blue;
+}
+img[height*="2"]{
+    border: 3px solid yellow;
+}
